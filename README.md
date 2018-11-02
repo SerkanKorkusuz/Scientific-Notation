@@ -1,1 +1,1 @@
-# Scienttific-Notation
+# Scientific-Notation
