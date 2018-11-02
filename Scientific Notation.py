@@ -1,5 +1,3 @@
-
-
 def myfunc(x):
     mylist=[]
     base=0
