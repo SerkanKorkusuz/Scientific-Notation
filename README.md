@@ -3,13 +3,13 @@
 Scientific notation (also referred to as scientific form or standard index form, or standard form in the UK) is a way of expressing numbers that are too big or too small to be conveniently written in decimal form. It is commonly used by scientists, mathematicians and engineers, in part because it can simplify certain arithmetic operations. On scientific calculators it is usually known as "SCI" display mode.
 
 Decimal notation 	Scientific notation
-2 	              2×10^0
-300 	            3×10^2
-4,321.768 	      4.321768×10^3
-−53,000 	        −5.3×10^4
-6,720,000,000 	  6.72×10^9
-0.2 	            2×10^−1
-0.000 000 007 51 	7.51×10^−9
+2= 	                2×10^0
+300= 	            3×10^2
+4,321.768=	        4.321768×10^3
+−53,000= 	        −5.3×10^4
+6,720,000,000= 	    6.72×10^9
+0.2= 	            2×10^−1
+0.000 000 007 51= 	7.51×10^−9
 
 In scientific notation all numbers are written in the form
     m × 10n
