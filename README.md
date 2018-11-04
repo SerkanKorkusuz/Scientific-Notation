@@ -18,4 +18,4 @@ In scientific notation all numbers are written in the form
 
 Decimal floating point is a computer arithmetic system closely related to scientific notation. 
 
-This Raedme's Text Source: Wikipedia
+This Readme's Text Source: Wikipedia
